@@ -25,8 +25,8 @@ function Projects() {
               isBlog={false}
               title="Plateforme RH avec Laravel"
               description="Création d’une plateforme web pour la gestion des offres d’emploi avec Laravel. Authentification, interface responsive et opérations CRUD."
-              ghLink="#"
-              demoLink="#"
+              ghLink="https://github.com/bllbadr"
+              demoLink="https://github.com/bllbadr"
             />
           </Col>
 
@@ -34,10 +34,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Site E-commerce Laravel"
-              description="Développement d’un système de gestion pour location de voitures : génération de rapports PDF, import/export Excel, et base MySQL."
-              ghLink="#"
-              demoLink="#"
+              title="Une marketplace numérique "
+              description="Conception et développement d’une plateforme de vente de produits digitaux (scripts, templates, médias, etc.) avec Laravel, MySQL et Blade. Mise en place d’un système sécurisé de gestion des utilisateurs, des paiements (PayPal, Stripe, Razorpay) et d’un tableau de bord interactif."
+              ghLink="https://github.com/bllbadr"
+              demoLink="https://github.com/bllbadr"
             />
           </Col>
 
@@ -47,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="Application Point de Vente"
               description="Solution polyvalente pour magasins : gestion des achats, ventes, caisse et stocks avec suivi en temps réel."
-              ghLink="#"
-              demoLink="#"
+              ghLink="https://github.com/bllbadr"
+              demoLink="https://github.com/bllbadr"
             />
           </Col>
 
